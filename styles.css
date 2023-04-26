@@ -42,9 +42,10 @@ p {
 	height: 10px;
 }
 
-.large, .medium {
+.large,
+.medium {
 	background-color: black;
-	border:0;
+	border: 0;
 }
 
 .small-text {
@@ -85,10 +86,10 @@ p {
 	margin-left: 1em;
 }
 
-.daily-value p:not(.no-divider) {
-	border-bottom: 1px solid #888989;
+.double-indent {
+	margin-left: 2em;
 }
 
-.double-indent {
-	margin: 2em;
+.daily-value p:not(.no-divider) {
+	border-bottom: 1px solid #888989;
 }
