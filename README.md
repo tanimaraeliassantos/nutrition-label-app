@@ -1,6 +1,6 @@
 # NUTRITION LABEL APP
 
-The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a nutrition label for a yummy low calorie food,with lots of Calcium and enough Iron to keep your blood flowing after dealing with all those dividers and spans. :grin:
+The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a nutrition label for a yummy low calorie food, with lots of Calcium and enough Iron to keep your blood flowing after dealing with all those dividers and spans. :grin:
 
 ![nutrition label  app - Tanimara Elias Santos](nutrition-label-showcase.gif)
 
